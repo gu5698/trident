@@ -3,7 +3,7 @@
 
 ## 预览
 
-- [drag-drop](https://codesandbox.io/p/github/gu5698/trident/) - 完整版 codesandbox 站点
+- [trident](https://codesandbox.io/p/github/gu5698/trident/) - 完整版 codesandbox 站点
 
 ## 安装和使用
 
